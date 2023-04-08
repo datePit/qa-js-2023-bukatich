@@ -1,3 +1,3 @@
 # Otus QA 
 
-<!-- asdasd -->
+<!-- Project description -->
