@@ -1,3 +1,5 @@
 # Otus QA 
 
-<!-- Project description -->
+
+#### Project description 
+<!-- updated description -->
